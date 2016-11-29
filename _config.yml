@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://rameyrobo.github.io/amalegaze/gallery/"  
-  - JOURNAL: "http://rameyrobo.github.io/amalegaze/journal/"
-  - ABOUT: "http://rameyrobo.github.io/amalegaze/about/"
+  - GALLERY: "https://rameyrobo.github.io/amalegaze/gallery/"  
+  - JOURNAL: "https://rameyrobo.github.io/amalegaze/journal/"
+  - ABOUT: "https://rameyrobo.github.io/amalegaze/about/"
 
 # All translation keys
 translations:
